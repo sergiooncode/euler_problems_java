@@ -1,4 +1,4 @@
 TDD-driven solutions to Project Euler problems in Java
 
-- Problem 5: [Smallest multiple] (https://projecteuler.net/problem=5)
-- Problem 6: [Sum square difference] (https://projecteuler.net/problem=6)
+- <a href="https://projecteuler.net/problem=5" target="_blank">Problem 5: Smallest multiple</a>
+- <a href="https://projecteuler.net/problem=6" target="_blank"> Problem 6: Sum square difference</a>
